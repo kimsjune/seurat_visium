@@ -1,0 +1,11 @@
+*
+
+!**/README.md
+!LICENSE
+!.gitignore
+
+!**/
+!*/
+
+!**/*.R
+!**/*.pdf

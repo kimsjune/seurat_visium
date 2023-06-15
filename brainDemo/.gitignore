@@ -1,0 +1,10 @@
+*
+!README*
+!.gitignore
+!LICENSE
+
+!*/
+!**/
+
+!**/*.R
+
